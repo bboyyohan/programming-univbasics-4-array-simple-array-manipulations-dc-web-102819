@@ -26,7 +26,7 @@ def using_concat(array, array2)
   array.concat(array2)
 end
 
-def using_insert(array, array2)
-  
-  array.insert(4, array2)
+def using_insert(array, mouse)
+  array.insert(4, mouse)
 end
+

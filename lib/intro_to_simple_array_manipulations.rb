@@ -28,5 +28,5 @@ end
 
 def using_insert(array, array2)
   cheese
-  array.insert(cheese, array2)
+  array.insert(4 array2)
 end
